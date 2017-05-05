@@ -1,0 +1,9 @@
+********************************************************************************
+*                            ROCK-PAPER-SCISSORS                               *
+*      PLAY HEAD-TO-HEAD WITH OTHER PLAYERS, OR YOU CAN PLAY VS COMPUTER.      *
+*        FIRST ONE TO REACH 5 MORE WINS, THEN THE OTHER WINS THE GAME          *
+*                                                                              *
+*                           ROCK CRUSHES SCISSORS                              *
+*                             PAPER COVERS ROCK                                *
+*                            SCISSORS CUTS PAPER                               *
+********************************************************************************
